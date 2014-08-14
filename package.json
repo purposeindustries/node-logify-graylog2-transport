@@ -1,0 +1,25 @@
+{
+  "name": "logify-graylog2-transport",
+  "version": "0.1.0",
+  "description": "Graylog2 transport for logify",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/purposeindustries/node-logify-graylog2-transport"
+  },
+  "keywords": [
+    "logify",
+    "graylog2",
+    "logger",
+    "transport"
+  ],
+  "author": "Purpose Industries <dev@purposeindustries.co> (http://purposeindustries.co)",
+  "contributors": [
+    "Bence Dányi <bd@purposeindustries.co>"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/purposeindustries/node-logify-graylog2-transport/issues"
+  },
+  "homepage": "https://github.com/purposeindustries/node-logify-graylog2-transport"
+}
