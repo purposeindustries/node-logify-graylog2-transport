@@ -1,6 +1,6 @@
 {
   "name": "logify-graylog2-transport",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Graylog2 transport for logify",
   "main": "index.js",
   "repository": {
