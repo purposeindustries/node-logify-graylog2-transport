@@ -5,7 +5,7 @@ var zlib = require('zlib');
 var util = require('util');
 
 function populate(obj, prefix, subject, key) {
-  if (typeof subject[key] == 'object') {
+  if (typeof subject[key] == 'object' && subject[key]) {
     return Object.keys(subject[key]).forEach(
       populate.bind(
         null,
